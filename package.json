@@ -1,7 +1,6 @@
 {
   "name": "mapping-components-practice",
   "version": "1.0.0",
-  "homepage": "https://GeekyGoyal.github.io/Emojipedia",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
@@ -15,8 +14,6 @@
     "typescript": "3.3.3"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
